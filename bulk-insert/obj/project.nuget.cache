@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfV5zr7/RlbJuaMPRXuYWkCKWuYxn9PKqhtKM1mr3fzt4Uv2SQmGlPkAGw6qcrUzXbY7Y5waBgdrzORE1Uf6EA==",
+  "success": true,
+  "projectFilePath": "D:\\git\\AzureRDK\\azure-search\\search-website-functions-v4\\bulk-insert\\BulkInsert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kennedyr\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\azure.search.documents\\11.4.0\\azure.search.documents.11.4.0.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\servicestack.text\\6.4.0\\servicestack.text.6.4.0.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\kennedyr\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
